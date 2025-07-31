@@ -1,0 +1,65 @@
+[
+  {
+    "emp_id": 435,
+    "name": "Shahriar Ahmed",
+    "position": "Frontend Developer",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "contributing": [9845984, 9576],
+    "projects_count": 5,
+    "date_of_birth": "1999-04-12",
+    "about": "A passionate frontend developer who loves crafting clean and modern UI.",
+    "join_date": "2023-06-01",
+    "level": "Mid",
+    "rank": 3,
+    "salary": 1200,
+    "rating": 4.6,
+    "cv": "https://example.com/cv/shahriar.pdf",
+    "achievement": [
+      "Employee of the Month - July 2024",
+      "Completed 10+ Projects with 5-star rating"
+    ],
+    "goal": "Become a full-stack developer within 1 year.",
+    "status": "active"
+  },
+  {
+    "emp_id": 123,
+    "name": "Farzana Khatun",
+    "position": "UI/UX Designer",
+    "skills": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
+    "contributing": [978956],
+    "projects_count": 3,
+    "date_of_birth": "1997-11-20",
+    "about": "Creative UI/UX designer focused on user-centered designs and branding.",
+    "join_date": "2024-01-15",
+    "level": "Junior",
+    "rank": 4,
+    "salary": 800,
+    "rating": 4.2,
+    "cv": "https://example.com/cv/farzana.pdf",
+    "achievement": ["Designed 5+ brand kits", "Led UI for eCommerce projects"],
+    "goal": "Become a senior designer and mentor juniors.",
+    "status": "active"
+  },
+  {
+    "emp_id": 765,
+    "name": "Rakib Hasan",
+    "position": "Backend Developer",
+    "skills": ["Node.js", "Express", "MongoDB", "JWT"],
+    "contributing": [9587659, 95780, 95786059],
+    "projects_count": 7,
+    "date_of_birth": "1995-08-08",
+    "about": "Backend engineer specializing in scalable REST APIs and secure authentication systems.",
+    "join_date": "2022-11-10",
+    "level": "Senior",
+    "rank": 2,
+    "salary": 1800,
+    "rating": 4.9,
+    "cv": "https://example.com/cv/rakib.pdf",
+    "achievement": [
+      "Developed authentication system used in 15+ projects",
+      "Conducted backend workshops"
+    ],
+    "goal": "Architect a microservices-based backend system.",
+    "status": "active"
+  }
+]
