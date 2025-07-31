@@ -1,21 +1,40 @@
+import { MdOutlineSpaceDashboard } from "react-icons/md";
+import { FaRegFileLines } from "react-icons/fa6";
+import { MdOutlineHandyman } from "react-icons/md";
+import { HiOutlineUserGroup } from "react-icons/hi";
+import { RiHomeOfficeLine } from "react-icons/ri";
+import { TbReportMoney } from "react-icons/tb";
+import { TiChartLine } from "react-icons/ti";
+import { TbInvoice } from "react-icons/tb";
+import { TbSettings } from "react-icons/tb";
+
+import { TiUserAddOutline } from "react-icons/ti";
+import { TiDocumentAdd } from "react-icons/ti";
+import { MdOutlineAddHomeWork } from "react-icons/md";
+import { HiOutlineDocumentAdd } from "react-icons/hi";
+import { AiOutlineUsergroupAdd } from "react-icons/ai";
+
 export const navData = [
-  { name: "Home", path: "/", icon: "home" },
-  { name: "Projects", path: "/projects", icon: "project" },
-  { name: "Employees", path: "/employees", icon: "employee" },
-  { name: "Clients", path: "/clients", icon: "client" },
-  { name: "About", path: "/about", icon: "about" },
-  { name: "Contact", path: "/contact", icon: "contact" },
-  { name: "Settings", path: "/settings", icon: "settings" },
-  { name: "Help", path: "/help", icon: "help" },
+  { name: "Dashboard", path: "/", icon: MdOutlineSpaceDashboard },
+  { name: "Projects", path: "/projects", icon: FaRegFileLines },
+  { name: "Employees", path: "/employees", icon: MdOutlineHandyman },
+  { name: "Consumers", path: "/clients", icon: RiHomeOfficeLine },
+  { name: "Remuneration", path: "/clients", icon: TbReportMoney },
+  { name: "Revenue", path: "/clients", icon: TiChartLine },
+  { name: "Announcement", path: "/contact", icon: TbInvoice },
+  { name: "Teams", path: "/about", icon: HiOutlineUserGroup },
+  { name: "Settings", path: "/settings", icon: TbSettings },
 ];
 export const extraNavData = [
-  { name: "Create Employee", path: "/Create Employee", icon: "Employee" },
-  { name: "Create Project", path: "/Create Project", icon: "Project" },
-  { name: "Create Client", path: "/Create Client", icon: "Client" },
-  { name: "Create Task", path: "/Create Task", icon: "Task" },
-  { name: "Create Team", path: "/Create Team", icon: "Team" },
-  { name: "Create Report", path: "/Create Report", icon: "Report" },
-  { name: "Create Invoice", path: "/Create Invoice", icon: "Invoice" },
+  { name: "Create Employee", path: "/Create Employee", icon: TiUserAddOutline },
+  { name: "Create Project", path: "/Create Project", icon: TiDocumentAdd },
+  { name: "Create Client", path: "/Create Client", icon: MdOutlineAddHomeWork },
+  {
+    name: "Create Announcement",
+    path: "/Create Task",
+    icon: HiOutlineDocumentAdd,
+  },
+  { name: "Create Team", path: "/Create Team", icon: AiOutlineUsergroupAdd },
 ];
 export const footerNavData = [
   { name: "Privacy Policy", path: "/privacy", icon: "privacy" },
