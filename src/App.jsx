@@ -1,20 +1,38 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Leftnav from "./ui/navigation/Leftnav";
 import Nav from "./ui/navigation/Nav";
+import Dashboard from "./pages/Dashboard";
+import { EmployeeProvider } from "./context/EmployeeContext";
+import Members from "./pages/Members";
+import Teams from "./pages/Teams";
+import { TeamProvider } from "./context/TeamsContext";
 
 function App() {
   return (
     <>
-      <div className=" flex justify-between w-full ">
-        <div className=" bg-background w-[350px] h-screen shrink-0 sticky top-0 border-r border-e-border-secondary">
-          <Leftnav />
-        </div>
-        <div className=" w-full">
-          <div className=" sticky  top-0">
-            <Nav />
-          </div>
-          <div className="overflow-y-auto text-sm "></div>
-        </div>
-      </div>
+      <EmployeeProvider>
+        <TeamProvider>
+          <Router>
+            <div className=" flex justify-between w-full ">
+              <div className=" bg-background w-[350px] h-screen shrink-0 sticky top-0 border-r border-e-border-secondary">
+                <Leftnav />
+              </div>
+              <div className=" w-full">
+                <div className=" sticky  top-0">
+                  <Nav />
+                </div>
+                <div className="overflow-y-auto text-sm ">
+                  <Routes>
+                    <Route path="/" element={<Dashboard />} />
+                    <Route path="/employees" element={<Members />} />
+                    <Route path="/teams" element={<Teams />} />
+                  </Routes>
+                </div>
+              </div>
+            </div>
+          </Router>
+        </TeamProvider>
+      </EmployeeProvider>
     </>
   );
 }

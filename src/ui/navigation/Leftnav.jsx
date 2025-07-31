@@ -1,8 +1,9 @@
 import React from "react";
 import { navData } from "../../assets/Projectdata/navdata";
-import { IconBase } from "react-icons";
+import useGo from "../../hook/useNavigation";
 
 const Leftnav = () => {
+  const go = useGo();
   return (
     <div>
       <div className="h-[68px] pl-[60px] flex items-center justify-between border-b border-border-secondary bg-background">
@@ -13,9 +14,10 @@ const Leftnav = () => {
           const Icon = item.icon; // এইখানে icon টা একটা Component
           return (
             <div
+              to={item.path}
               key={index}
               className="flex w-[200px] items-center gap-3  hover:gap-2 duration-200 py-2 cursor-pointer"
-              onClick={() => console.log(`Navigating to ${item.path}`)}
+              onClick={() => go(item.path)}
             >
               {/*  <span className={`icon-${item.icon} mr-2`}></span> */}
               <Icon className="text-xl" />

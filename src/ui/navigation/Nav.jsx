@@ -7,8 +7,8 @@ import { RiNotification4Line } from "react-icons/ri";
 
 const Nav = () => {
   return (
-    <div className=" ">
-      <div className="h-[68px] px-16 flex items-center justify-between border-b border-border-secondary bg-background">
+    <div className=" bg-background-secondary">
+      <div className="h-[68px] Pagearea flex items-center justify-between border-b border-border-secondary bg-background">
         <div className="left flex items-center gap-4 w-[50%]">
           <form
             className=" flex items-center bg-background-secondary rounded-full overflow-hidden w-full"
@@ -42,7 +42,7 @@ const Nav = () => {
       </div>
       {/* This is the main navigation component that renders the extra navigation items */}
 
-      <div className=" px-16 h-[43px] flex items-center justify-start gap-9 ">
+      <div className=" Pagearea h-[50px] bg-background-secondary  flex items-center justify-start gap-9 ">
         {extraNavData.map((item, index) => {
           const Icon = item.icon; // এইখানে icon টা একটা Component
           return (

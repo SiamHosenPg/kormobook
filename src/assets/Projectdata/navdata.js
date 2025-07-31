@@ -22,7 +22,7 @@ export const navData = [
   { name: "Remuneration", path: "/clients", icon: TbReportMoney },
   { name: "Revenue", path: "/clients", icon: TiChartLine },
   { name: "Announcement", path: "/contact", icon: TbInvoice },
-  { name: "Teams", path: "/about", icon: HiOutlineUserGroup },
+  { name: "Teams", path: "/teams", icon: HiOutlineUserGroup },
   { name: "Settings", path: "/settings", icon: TbSettings },
 ];
 export const extraNavData = [

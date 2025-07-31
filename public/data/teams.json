@@ -1,0 +1,82 @@
+[
+  {
+    "teamId": 3565464365,
+    "teamName": "CodeMasters",
+    "teamImage": "/images/extra/team/1.jpg",
+    "leaderId": "E101",
+    "leaderName": "Shium Hossen",
+    "teamStatus": "active",
+    "teamSlogan": "We Code, We Conquer!",
+    "specialty": "Full-Stack Development",
+    "rank": 1,
+    "teamLevel": "Pro",
+    "createdDate": "2023-04-12",
+    "completedProjects": 42,
+    "members": [
+      {
+        "memberName": "Sadia Akter",
+        "employeeId": "E102"
+      },
+      {
+        "memberName": "Jahid Hasan",
+        "employeeId": "E103"
+      },
+      {
+        "memberName": "Tareq Rahman",
+        "employeeId": "E104"
+      }
+    ]
+  },
+  {
+    "teamId": 903756957,
+    "teamName": "PixelPioneers",
+    "teamImage": "/images/extra/team/2.jpg",
+    "leaderId": "E105",
+    "leaderName": "Nayeem Islam",
+    "teamStatus": "on-hold",
+    "teamSlogan": "Design meets Code",
+    "specialty": "UI/UX & Frontend",
+    "rank": 3,
+    "teamLevel": "Intermediate",
+    "createdDate": "2022-10-01",
+    "completedProjects": 18,
+    "members": [
+      {
+        "memberName": "Rina Parvin",
+        "employeeId": "E106"
+      },
+      {
+        "memberName": "Rafiul Alam",
+        "employeeId": "E107"
+      }
+    ]
+  },
+  {
+    "teamId": 98560586,
+    "teamName": "BugSquashers",
+    "teamImage": "/images/extra/team/3.jpg",
+    "leaderId": "E108",
+    "leaderName": "Mehedi Hasan",
+    "teamStatus": "inactive",
+    "teamSlogan": "We Hunt Bugs",
+    "specialty": "QA & Testing",
+    "rank": 5,
+    "teamLevel": "Beginner",
+    "createdDate": "2021-06-20",
+    "completedProjects": 10,
+    "members": [
+      {
+        "memberName": "Nadia Hossain",
+        "employeeId": "E109"
+      },
+      {
+        "memberName": "Tanvir Ahmed",
+        "employeeId": "E110"
+      },
+      {
+        "memberName": "Sabbir Khan",
+        "employeeId": "E111"
+      }
+    ]
+  }
+]

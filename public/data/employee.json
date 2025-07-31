@@ -1,8 +1,9 @@
 [
   {
-    "emp_id": 435,
+    "emp_id": 45246335,
     "name": "Shahriar Ahmed",
     "position": "Frontend Developer",
+    "image": "/images/extra/profile/2.jpg",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
     "contributing": [9845984, 9576],
     "projects_count": 5,
@@ -19,12 +20,13 @@
       "Completed 10+ Projects with 5-star rating"
     ],
     "goal": "Become a full-stack developer within 1 year.",
-    "status": "active"
+    "status": "Active"
   },
   {
-    "emp_id": 123,
+    "emp_id": 12467653,
     "name": "Farzana Khatun",
     "position": "UI/UX Designer",
+    "image": "/images/extra/profile/3.jpg",
     "skills": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
     "contributing": [978956],
     "projects_count": 3,
@@ -38,12 +40,13 @@
     "cv": "https://example.com/cv/farzana.pdf",
     "achievement": ["Designed 5+ brand kits", "Led UI for eCommerce projects"],
     "goal": "Become a senior designer and mentor juniors.",
-    "status": "active"
+    "status": "Active"
   },
   {
-    "emp_id": 765,
+    "emp_id": 76456765,
     "name": "Rakib Hasan",
     "position": "Backend Developer",
+    "image": "/images/extra/profile/4.jpg",
     "skills": ["Node.js", "Express", "MongoDB", "JWT"],
     "contributing": [9587659, 95780, 95786059],
     "projects_count": 7,
@@ -60,6 +63,269 @@
       "Conducted backend workshops"
     ],
     "goal": "Architect a microservices-based backend system.",
-    "status": "active"
+    "status": "Active"
+  },
+  {
+    "emp_id": 98765432,
+    "name": "Sadia Rahman",
+    "position": "Project Manager",
+    "image": "/images/extra/profile/5.jpg",
+    "skills": ["Agile", "Scrum", "Team Management", "Risk Management"],
+    "contributing": [957890, 9578901],
+    "projects_count": 10,
+    "date_of_birth": "1990-02-14",
+    "about": "Experienced project manager with a track record of delivering projects on time and within budget.",
+    "join_date": "2021-05-20",
+    "level": "Lead",
+    "rank": 1,
+    "salary": 2500,
+    "rating": 4.8,
+    "cv": "https://example.com/cv/sadia.pdf",
+    "achievement": [
+      "Managed 20+ successful projects",
+      "Improved team efficiency by 30%"
+    ],
+    "goal": "Lead a cross-functional team to deliver a flagship product.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 12345678,
+    "name": "Anik Sarker",
+    "position": "Data Analyst",
+    "image": "/images/extra/profile/6.jpg",
+    "skills": ["Python", "SQL", "Data Visualization", "Machine Learning"],
+    "contributing": [9578902, 9578903],
+    "projects_count": 4,
+    "date_of_birth": "1993-09-30",
+    "about": "Data enthusiast with a passion for turning data into actionable insights.",
+    "join_date": "2023-03-05",
+    "level": "Mid",
+    "rank": 5,
+    "salary": 1500,
+    "rating": 4.5,
+    "cv": "https://example.com/cv/anik.pdf",
+    "achievement": [
+      "Developed predictive models for sales forecasting",
+      "Presented data insights to stakeholders"
+    ],
+    "goal": "Become a data scientist and lead AI projects.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 456335,
+    "name": "Mariam Akter",
+    "position": "Quality Assurance Engineer",
+    "image": "/images/extra/profile/7.jpg",
+    "skills": ["Manual Testing", "Automation Testing", "Selenium", "Jira"],
+    "contributing": [9578904, 9578905],
+    "projects_count": 6,
+    "date_of_birth": "1992-12-25",
+    "about": "Detail-oriented QA engineer with expertise in both manual and automated testing.",
+    "join_date": "2023-08-10",
+    "level": "Junior",
+    "rank": 6,
+    "salary": 900,
+    "rating": 4.3,
+    "cv": "https://example.com/cv/mariam.pdf",
+    "achievement": [
+      "Automated regression tests for major releases",
+      "Improved bug detection rate by 40%"
+    ],
+    "goal": "Master automation testing tools and lead QA initiatives.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 78901234,
+    "name": "Tania Islam",
+    "position": "DevOps Engineer",
+    "image": "/images/extra/profile/8.jpg",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "AWS"],
+    "contributing": [9578906, 9578907],
+    "projects_count": 8,
+    "date_of_birth": "1994-07-15",
+    "about": "DevOps engineer focused on automating deployment pipelines and improving system reliability.",
+    "join_date": "2022-09-01",
+    "level": "Senior",
+    "rank": 7,
+    "salary": 2000,
+    "rating": 4.7,
+    "cv": "https://example.com/cv/tania.pdf",
+    "achievement": [
+      "Implemented CI/CD pipelines for multiple projects",
+      "Reduced deployment time by 50%"
+    ],
+    "goal": "Lead DevOps transformations and cloud migrations.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 11223344,
+    "name": "Rafiq Ahmed",
+    "position": "System Administrator",
+    "image": "/images/extra/profile/9.jpg",
+    "skills": ["Linux", "Networking", "Virtualization", "Security"],
+    "contributing": [9578908, 9578909],
+    "projects_count": 2,
+    "date_of_birth": "1988-05-05",
+    "about": "System administrator with a focus on maintaining system integrity and security.",
+    "join_date": "2020-11-15",
+    "level": "Lead",
+    "rank": 8,
+    "salary": 2200,
+    "rating": 4.4,
+    "cv": "https://example.com/cv/rafiq.pdf",
+    "achievement": [
+      "Secured company network against major threats",
+      "Optimized server performance"
+    ],
+    "goal": "Enhance system security protocols and lead IT infrastructure projects.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 22334455,
+    "name": "Nabila Sultana",
+    "position": "Content Writer",
+    "image": "/images/extra/profile/10.jpg",
+    "skills": ["SEO", "Copywriting", "Blogging", "Content Strategy"],
+    "contributing": [9578910, 9578911],
+    "projects_count": 9,
+    "date_of_birth": "1991-03-18",
+    "about": "Creative content writer with a knack for storytelling and engaging audiences.",
+    "join_date": "2023-02-20",
+    "level": "Mid",
+    "rank": 9,
+    "salary": 1100,
+    "rating": 4.6,
+    "cv": "https://example.com/cv/nabila.pdf",
+    "achievement": [
+      "Increased website traffic by 60% through content marketing",
+      "Published articles in top industry blogs"
+    ],
+    "goal": "Expand content marketing strategies and lead a content team.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 33445566,
+    "name": "Imran Hossain",
+    "position": "Graphic Designer",
+    "image": "/images/extra/profile/11.jpg",
+    "skills": ["Photoshop", "Illustrator", "Branding", "Visual Design"],
+    "contributing": [9578912, 9578913],
+    "projects_count": 1,
+    "date_of_birth": "1996-06-30",
+    "about": "Innovative graphic designer with a passion for creating visually appealing designs.",
+    "join_date": "2024-04-01",
+    "level": "Junior",
+    "rank": 10,
+    "salary": 700,
+    "rating": 4.1,
+    "cv": "https://example.com/cv/imran.pdf",
+    "achievement": [
+      "Designed branding materials for 10+ startups",
+      "Created award-winning logo designs"
+    ],
+    "goal": "Master advanced design tools and lead creative projects.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 44556677,
+    "name": "Sakib Al Hasan",
+    "position": "Mobile App Developer",
+    "image": "/images/extra/profile/12.jpg",
+    "skills": ["Flutter", "React Native", "iOS", "Android"],
+    "contributing": [9578914, 9578915],
+    "projects_count": 3,
+    "date_of_birth": "1998-10-10",
+    "about": "Mobile app developer with expertise in cross-platform development and user experience.",
+    "join_date": "2023-07-15",
+    "level": "Mid",
+    "rank": 11,
+    "salary": 1300,
+    "rating": 4.5,
+    "cv": "https://example.com/cv/sakib.pdf",
+    "achievement": [
+      "Developed 5+ mobile apps with over 100k downloads",
+      "Optimized app performance for better user engagement"
+    ],
+    "goal": "Lead mobile app development projects and explore AI integration.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 55667788,
+    "name": "Rina Begum",
+    "position": "HR Specialist",
+    "image": "/images/extra/profile/13.jpg",
+    "skills": [
+      "Recruitment",
+      "Employee Relations",
+      "Performance Management",
+      "Training"
+    ],
+    "contributing": [9578916, 9578917],
+    "projects_count": 4,
+    "date_of_birth": "1990-01-01",
+    "about": "HR specialist dedicated to enhancing employee experience and organizational culture.",
+    "join_date": "2022-02-10",
+    "level": "Senior",
+    "rank": 12,
+    "salary": 1600,
+    "rating": 4.8,
+    "cv": "https://example.com/cv/rina.pdf",
+    "achievement": [
+      "Implemented new recruitment strategies that reduced hiring time by 30%",
+      "Organized team-building activities that improved morale"
+    ],
+    "goal": "Develop comprehensive HR policies and lead talent acquisition.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 66778899,
+    "name": "Jamal Uddin",
+    "position": "Network Engineer",
+    "image": "/images/extra/profile/14.jpg",
+    "skills": ["Cisco", "Network Security", "Troubleshooting", "VPN"],
+    "contributing": [9578918, 9578919],
+    "projects_count": 2,
+    "date_of_birth": "1985-04-20",
+    "about": "Network engineer with a focus on building secure and efficient network infrastructures.",
+    "join_date": "2021-08-05",
+    "level": "Lead",
+    "rank": 13,
+    "salary": 2100,
+    "rating": 4.7,
+    "cv": "https://example.com/cv/jamal.pdf",
+    "achievement": [
+      "Designed and implemented a secure network for a large enterprise",
+      "Reduced network downtime by 40%"
+    ],
+    "goal": "Enhance network security protocols and lead network projects.",
+    "status": "Active"
+  },
+  {
+    "emp_id": 77889900,
+    "name": "Lina Chowdhury",
+    "position": "Sales Executive",
+    "image": "/images/extra/profile/15.jpg",
+    "skills": [
+      "Sales Strategy",
+      "Customer Relationship",
+      "Negotiation",
+      "Market Research"
+    ],
+    "contributing": [9578920, 9578921],
+    "projects_count": 5,
+    "date_of_birth": "1992-08-18",
+    "about": "Dynamic sales executive with a proven track record in achieving sales targets and building client relationships.",
+    "join_date": "2023-05-25",
+    "level": "Mid",
+    "rank": 14,
+    "salary": 1400,
+    "rating": 4.4,
+    "cv": "https://example.com/cv/lina.pdf",
+    "achievement": [
+      "Exceeded sales targets by 20% in the last quarter",
+      "Developed key client relationships that led to long-term contracts"
+    ],
+    "goal": "Expand market reach and lead a sales team.",
+    "status": "Active"
   }
 ]
