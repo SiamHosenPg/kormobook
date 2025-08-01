@@ -7,7 +7,7 @@ const Leftnav = () => {
   return (
     <div>
       <div className="h-[68px] pl-[60px] flex items-center justify-between border-b border-border-secondary bg-background">
-        <h4>KormoBook</h4>
+        <h3>KormoBook</h3>
       </div>
       <div className="flex flex-col gap-4 mt-12 pl-[60px]">
         {navData.map((item, index) => {

@@ -1,5 +1,6 @@
 import React from "react";
 import Statusbox from "../Statusbox";
+import Badge from "../badge/Badge";
 
 const Profilecard = ({ employee }) => {
   return (
@@ -25,7 +26,9 @@ const Profilecard = ({ employee }) => {
         </div>
       </div>
       <div className="member-info mt-2">
-        <h5 className="text-lg font-semibold">{employee.name}</h5>
+        <h5 className="text-lg font-semibold flex items-center gap-1">
+          {employee.name} <Badge badge={employee.level} />
+        </h5>
         <p className="text-sm  text-text-secondary">{employee.position}</p>
         <p className="mt-2 text-sm line-clamp-2">{employee.about}</p>
       </div>
