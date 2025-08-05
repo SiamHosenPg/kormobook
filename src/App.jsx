@@ -6,31 +6,36 @@ import { EmployeeProvider } from "./context/EmployeeContext";
 import Members from "./pages/Members";
 import Teams from "./pages/Teams";
 import { TeamProvider } from "./context/TeamsContext";
+import Projects from "./pages/Projects";
+import { ProjectProvider } from "./context/ProjectContext";
 
 function App() {
   return (
     <>
       <EmployeeProvider>
         <TeamProvider>
-          <Router>
-            <div className=" flex justify-between w-full ">
-              <div className=" bg-background w-[350px] h-screen shrink-0 sticky top-0 border-r border-e-border-secondary">
-                <Leftnav />
-              </div>
-              <div className=" w-full">
-                <div className=" sticky  top-0">
-                  <Nav />
+          <ProjectProvider>
+            <Router>
+              <div className=" flex justify-between w-full ">
+                <div className=" bg-background w-[350px] h-screen shrink-0 sticky top-0 border-r border-e-border-secondary">
+                  <Leftnav />
                 </div>
-                <div className="overflow-y-auto text-sm ">
-                  <Routes>
-                    <Route path="/" element={<Dashboard />} />
-                    <Route path="/employees" element={<Members />} />
-                    <Route path="/teams" element={<Teams />} />
-                  </Routes>
+                <div className=" w-full">
+                  <div className=" sticky  top-0">
+                    <Nav />
+                  </div>
+                  <div className="overflow-y-auto text-sm ">
+                    <Routes>
+                      <Route path="/" element={<Dashboard />} />
+                      <Route path="/employees" element={<Members />} />
+                      <Route path="/teams" element={<Teams />} />
+                      <Route path="/projects" element={<Projects />} />
+                    </Routes>
+                  </div>
                 </div>
               </div>
-            </div>
-          </Router>
+            </Router>
+          </ProjectProvider>
         </TeamProvider>
       </EmployeeProvider>
     </>

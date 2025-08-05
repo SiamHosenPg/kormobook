@@ -42,6 +42,9 @@ body {
   font-size: 15px;
   color: var(--color-text);
 }
+.Bold {
+  font-weight: 600;
+}
 input,
 button,
 textarea {

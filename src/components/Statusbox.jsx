@@ -1,6 +1,6 @@
 import React from "react";
 
-const Statusbox = ({ text }) => {
+const Statusbox = ({ text, project }) => {
   return (
     <div
       className={`${

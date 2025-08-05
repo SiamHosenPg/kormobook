@@ -1,0 +1,576 @@
+[
+  {
+    "projectId": "PJT-001",
+    "projectName": "Travel Booking Website",
+    "ProjectLink": "github.com/travel-booking",
+    "clientName": "Rofiqul Islam",
+    "price": 1200,
+    "deadline": "2025-08-20",
+    "category": "Web Development",
+    "status": "Progress",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/travel.png",
+    "projectReceiveDate": "2025-07-25",
+    "projectDeliveryTime": "13 days",
+    "projectLocation": "New York, USA",
+    "referenceLink": "https://reference.com/travel-site",
+    "keyFeatures": [
+      "User authentication",
+      "Bus seat booking",
+      "Payment integration",
+      "Admin panel"
+    ],
+    "importantMessages": [
+      "Client wants mobile-first design",
+      "Final delivery must include documentation"
+    ],
+    "shortText": "Online travel and bus booking platform",
+    "description": "This is a responsive travel booking website where users can search, book, and manage bus tickets across different cities. Includes admin dashboard and user management system.",
+    "contributeTeam": "CodeHunter",
+    "contributeEmployeeIds": ["EMP-101", "EMP-104", "EMP-110"],
+    "revisions": 2,
+    "updateDetails": [
+      {
+        "date": "2025-07-28",
+        "updatedBy": "Siam Hossen",
+        "message": "Updated homepage design"
+      },
+      {
+        "date": "2025-07-30",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Integrated payment gateway"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-002",
+    "projectName": "E-commerce Platform",
+    "ProjectLink": "github.com/ecommerce-platform",
+    "clientName": "Siam Hossen",
+    "price": 2500,
+    "deadline": "2025-09-15",
+    "category": "Web Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/ecommerce.png",
+    "projectReceiveDate": "2025-08-01",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/ecommerce-site",
+    "keyFeatures": [
+      "Product management",
+      "User reviews and ratings",
+      "Order tracking system"
+    ],
+    "importantMessages": [
+      "Ensure SEO optimization for products",
+      "Include multi-language support"
+    ],
+    "shortText": "Full-featured e-commerce platform for online shopping",
+    "description": "A comprehensive e-commerce solution that allows users to browse products, manage their carts, and complete purchases. Includes admin features for product management and order processing.",
+    "contributeTeam": "Kodgramix",
+    "contributeEmployeeIds": ["EMP-102", "EMP-105", "EMP-111"],
+    "revisions": 3,
+    "updateDetails": [
+      {
+        "date": "2025-08-05",
+        "updatedBy": "Rofiqul Islam",
+        "message": "Added new payment options"
+      },
+      {
+        "date": "2025-08-10",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Improved product search functionality"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-003",
+    "projectName": "Portfolio Website",
+    "ProjectLink": "github.com/portfolio-website",
+    "clientName": "Hasan Mahmud",
+    "price": 1800,
+    "deadline": "2025-08-30",
+    "category": "Web Development",
+    "status": "Review",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/portfolio.png",
+    "projectReceiveDate": "2025-08-10",
+    "projectDeliveryTime": "12 days",
+    "projectLocation": "Chittagong, Bangladesh",
+    "referenceLink": "https://reference.com/portfolio-site",
+    "keyFeatures": ["Responsive design", "Project showcase", "Contact form"],
+    "importantMessages": [
+      "Focus on minimalistic design",
+      "Include a blog section"
+    ],
+    "shortText": "Personal portfolio website to showcase projects and skills",
+    "description": "A sleek and modern portfolio website that highlights the client's work, skills, and contact information. Designed to be visually appealing and easy to navigate.",
+    "contributeTeam": "PowerCoders",
+    "contributeEmployeeIds": ["EMP-103", "EMP-106", "EMP-112"],
+    "revisions": 1,
+    "updateDetails": [
+      {
+        "date": "2025-08-12",
+        "updatedBy": "Siam Hossen",
+        "message": "Initial design mockup created"
+      }
+    ],
+    "isPaid": false
+  },
+  {
+    "projectId": "PJT-004",
+    "projectName": "Blog Platform",
+    "ProjectLink": "github.com/blog-platform",
+    "clientName": "Rofiqul Islam",
+    "price": 1570,
+    "deadline": "2025-09-05",
+    "category": "Web Development",
+    "status": "Immediate",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/blog.png",
+    "projectReceiveDate": "2025-08-15",
+    "projectDeliveryTime": "2 days",
+    "projectLocation": "Sylhet, Bangladesh",
+    "referenceLink": "https://reference.com/blog-site",
+    "keyFeatures": [
+      "User registration and login",
+      "Post creation and management",
+      "Comment system"
+    ],
+    "importantMessages": [
+      "Ensure mobile responsiveness",
+      "Implement user roles for authors and admins"
+    ],
+    "shortText": "A blogging platform for users to create and share content",
+    "description": "A user-friendly blog platform that allows users to write, edit, and publish posts. Includes features for commenting and user interaction.",
+    "contributeTeam": "TechWizards",
+    "contributeEmployeeIds": ["EMP-104", "EMP-107", "EMP-113"],
+    "revisions": 2,
+    "updateDetails": [
+      {
+        "date": "2025-08-18",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Added comment functionality"
+      },
+      {
+        "date": "2025-08-20",
+        "updatedBy": "Siam Hossen",
+        "message": "Improved post editor features"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-005",
+    "projectName": "Online Learning Platform",
+    "ProjectLink": "github.com/learning-platform",
+    "clientName": "Siam Hossen",
+    "price": 1050,
+    "deadline": "2025-10-01",
+    "category": "Web Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/learning.png",
+    "projectReceiveDate": "2025-08-20",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/learning-site",
+    "keyFeatures": [
+      "Course management system",
+      "User progress tracking",
+      "Video lectures"
+    ],
+    "importantMessages": [
+      "Include gamification elements for user engagement",
+      "Support multiple payment gateways"
+    ],
+    "shortText": "An online platform for courses and learning materials",
+    "description": "A comprehensive online learning platform that allows users to enroll in courses, track their progress, and access video lectures. Designed for both students and instructors.",
+    "contributeTeam": "EduTech",
+    "contributeEmployeeIds": ["EMP-105", "EMP-108", "EMP-114"],
+    "revisions": 4,
+    "updateDetails": [
+      {
+        "date": "2025-08-25",
+        "updatedBy": "Rofiqul Islam",
+        "message": "Added course creation features"
+      },
+      {
+        "date": "2025-09-01",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Integrated video streaming service"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0206",
+    "projectName": "Social Media App",
+    "ProjectLink": "github.com/social-media-app",
+    "clientName": "Hasan Mahmud",
+    "price": 3000,
+    "deadline": "2025-11-15",
+    "category": "Mobile Development",
+    "status": "Progress",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/social-media.png",
+    "projectReceiveDate": "2025-09-01",
+    "projectDeliveryTime": "15 days",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/social-media-app",
+    "keyFeatures": [
+      "User profiles",
+      "Post sharing and commenting",
+      "Real-time notifications"
+    ],
+    "importantMessages": [
+      "Focus on user privacy and data security",
+      "Implement scalable architecture"
+    ],
+    "shortText": "A mobile app for social networking and content sharing",
+    "description": "A feature-rich social media application that allows users to create profiles, share posts, and interact with others. Includes real-time updates and notifications.",
+    "contributeTeam": "AppMasters",
+    "contributeEmployeeIds": ["EMP-106", "EMP-109", "EMP-115"],
+    "revisions": 1,
+    "updateDetails": [
+      {
+        "date": "2025-09-05",
+        "updatedBy": "Siam Hossen",
+        "message": "Initial app design completed"
+      }
+    ],
+    "isPaid": false
+  },
+  {
+    "projectId": "PJT-0217",
+    "projectName": "Fitness Tracker App",
+    "ProjectLink": "github.com/fitness-tracker-app",
+    "clientName": "Rofiqul Islam",
+    "price": 2200,
+    "deadline": "2025-12-01",
+    "category": "Mobile Development",
+    "status": "Progress",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/fitness-tracker.png",
+    "projectReceiveDate": "2025-09-10",
+    "projectDeliveryTime": "60 days",
+    "projectLocation": "Chittagong, Bangladesh",
+    "referenceLink": "https://reference.com/fitness-tracker-app",
+    "keyFeatures": [
+      "Activity tracking",
+      "Goal setting and reminders",
+      "Health metrics analysis"
+    ],
+    "importantMessages": [
+      "Ensure compatibility with wearables",
+      "Include social sharing features"
+    ],
+    "shortText": "A mobile app to track fitness activities and health metrics",
+    "description": "A comprehensive fitness tracker application that allows users to log their activities, set goals, and analyze their health metrics. Designed for both iOS and Android platforms.",
+    "contributeTeam": "FitTech",
+    "contributeEmployeeIds": ["EMP-107", "EMP-110", "EMP-116"],
+    "revisions": 2,
+    "updateDetails": [
+      {
+        "date": "2025-09-15",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Added activity logging features"
+      },
+      {
+        "date": "2025-09-20",
+        "updatedBy": "Siam Hossen",
+        "message": "Integrated health metrics analysis tools"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0128",
+    "projectName": "Recipe Sharing Platform",
+    "ProjectLink": "github.com/recipe-sharing-platform",
+    "clientName": "Siam Hossen",
+    "price": 1500,
+    "deadline": "2025-10-20",
+    "category": "Web Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/recipe-sharing.png",
+    "projectReceiveDate": "2025-09-20",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Sylhet, Bangladesh",
+    "referenceLink": "https://reference.com/recipe-sharing-site",
+    "keyFeatures": [
+      "Recipe submission and management",
+      "User ratings and reviews",
+      "Search and filter recipes"
+    ],
+    "importantMessages": [
+      "Focus on user-friendly design",
+      "Include social media sharing options"
+    ],
+    "shortText": "A platform for users to share and discover recipes",
+    "description": "A vibrant recipe sharing platform that allows users to submit their own recipes, rate others, and explore a wide variety of culinary creations. Designed for food enthusiasts.",
+    "contributeTeam": "CulinaryCoders",
+    "contributeEmployeeIds": ["EMP-108", "EMP-111", "EMP-117"],
+    "revisions": 3,
+    "updateDetails": [
+      {
+        "date": "2025-09-25",
+        "updatedBy": "Rofiqul Islam",
+        "message": "Added recipe submission features"
+      },
+      {
+        "date": "2025-10-05",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Improved search functionality"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0139",
+    "projectName": "Event Management System",
+    "ProjectLink": "github.com/event-management-system",
+    "clientName": "Hasan Mahmud",
+    "price": 2000,
+    "deadline": "2025-11-10",
+    "category": "Web Development",
+    "status": "Review",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/event-management.png",
+    "projectReceiveDate": "2025-09-30",
+    "projectDeliveryTime": "10 days",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/event-management-site",
+    "keyFeatures": [
+      "Event creation and management",
+      "Ticket booking system",
+      "User registration and profiles"
+    ],
+    "importantMessages": [
+      "Ensure scalability for large events",
+      "Include analytics dashboard for event organizers"
+    ],
+    "shortText": "A system for managing events, ticket sales, and user registrations",
+    "description": "An advanced event management system that allows users to create, manage, and promote events. Includes features for ticket sales and user engagement.",
+    "contributeTeam": "EventMasters",
+    "contributeEmployeeIds": ["EMP-109", "EMP-112", "EMP-118"],
+    "revisions": 1,
+    "updateDetails": [
+      {
+        "date": "2025-10-05",
+        "updatedBy": "Siam Hossen",
+        "message": "Initial design and feature set defined"
+      }
+    ],
+    "isPaid": false
+  },
+  {
+    "projectId": "PJT-0140",
+    "projectName": "Travel Booking Mobile App",
+    "ProjectLink": "github.com/travel-booking-app",
+    "clientName": "Rofiqul Islam",
+    "price": 1700,
+    "deadline": "2025-10-30",
+    "category": "Mobile Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/travel-app.png",
+    "projectReceiveDate": "2025-10-01",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Chittagong, Bangladesh",
+    "referenceLink": "https://reference.com/travel-booking-app",
+    "keyFeatures": [
+      "Bus seat booking",
+      "User authentication",
+      "Payment integration"
+    ],
+    "importantMessages": [
+      "Focus on user experience and performance",
+      "Include offline mode for bookings"
+    ],
+    "shortText": "A mobile app for booking travel tickets and managing trips",
+    "description": "A user-friendly mobile application that allows users to book bus tickets, manage their trips, and access travel information. Designed for both iOS and Android platforms.",
+    "contributeTeam": "AppCoders",
+    "contributeEmployeeIds": ["EMP-110", "EMP-113", "EMP-119"],
+    "revisions": 2,
+    "updateDetails": [
+      {
+        "date": "2025-10-05",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Added initial booking features"
+      },
+      {
+        "date": "2025-10-15",
+        "updatedBy": "Siam Hossen",
+        "message": "Integrated payment gateway"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0151",
+    "projectName": "Health and Fitness App",
+    "ProjectLink": "github.com/health-fitness-app",
+    "clientName": "Siam Hossen",
+    "price": 1900,
+    "deadline": "2025-11-20",
+    "category": "Mobile Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/health-fitness.png",
+    "projectReceiveDate": "2025-10-10",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/health-fitness-app",
+    "keyFeatures": [
+      "Workout tracking",
+      "Nutrition logging",
+      "Progress analytics"
+    ],
+    "importantMessages": [
+      "Ensure data privacy and security",
+      "Include social sharing features"
+    ],
+    "shortText": "A mobile app for tracking health and fitness activities",
+    "description": "A comprehensive health and fitness application that allows users to log their workouts, track nutrition, and analyze their progress. Designed for both iOS and Android platforms.",
+    "contributeTeam": "FitCoders",
+    "contributeEmployeeIds": ["EMP-111", "EMP-114", "EMP-120"],
+    "revisions": 3,
+    "updateDetails": [
+      {
+        "date": "2025-10-15",
+        "updatedBy": "Rofiqul Islam",
+        "message": "Added workout tracking features"
+      },
+      {
+        "date": "2025-10-20",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Integrated nutrition logging tools"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0162",
+    "projectName": "Online Marketplace",
+    "ProjectLink": "github.com/online-marketplace",
+    "clientName": "Hasan Mahmud",
+    "price": 2300,
+    "deadline": "2025-12-15",
+    "category": "Web Development",
+    "status": "Completed",
+    "isDelivery": true,
+    "logo": "https://example.com/logos/marketplace.png",
+    "projectReceiveDate": "2025-10-20",
+    "projectDeliveryTime": "Complete",
+    "projectLocation": "Sylhet, Bangladesh",
+    "referenceLink": "https://reference.com/online-marketplace",
+    "keyFeatures": [
+      "Product listings and management",
+      "User reviews and ratings",
+      "Secure payment processing"
+    ],
+    "importantMessages": [
+      "Focus on user experience and performance",
+      "Include advanced search and filter options"
+    ],
+    "shortText": "A platform for buying and selling products online",
+    "description": "An advanced online marketplace that allows users to list products, manage their sales, and interact with buyers. Includes features for secure payments and user reviews.",
+    "contributeTeam": "MarketMasters",
+    "contributeEmployeeIds": ["EMP-112", "EMP-115", "EMP-121"],
+    "revisions": 1,
+    "updateDetails": [
+      {
+        "date": "2025-10-25",
+        "updatedBy": "Siam Hossen",
+        "message": "Initial design and feature set defined"
+      }
+    ],
+    "isPaid": false
+  },
+  {
+    "projectId": "PJT-0173",
+    "projectName": "Job Portal",
+    "ProjectLink": "github.com/job-portal",
+    "clientName": "Rofiqul Islam",
+    "price": 2100,
+    "deadline": "2025-11-30",
+    "category": "Web Development",
+    "status": "Progress",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/job-portal.png",
+    "projectReceiveDate": "2025-10-30",
+    "projectDeliveryTime": "20 days",
+    "projectLocation": "Dhaka, Bangladesh",
+    "referenceLink": "https://reference.com/job-portal",
+    "keyFeatures": [
+      "Job listings and applications",
+      "Employer profiles",
+      "Resume management"
+    ],
+    "importantMessages": [
+      "Ensure data privacy and security",
+      "Include advanced search and filter options"
+    ],
+    "shortText": "A platform for job seekers and employers to connect",
+    "description": "A comprehensive job portal that allows users to search for jobs, apply online, and manage their resumes. Designed for both job seekers and employers.",
+    "contributeTeam": "JobMasters",
+    "contributeEmployeeIds": ["EMP-113", "EMP-116", "EMP-122"],
+    "revisions": 2,
+    "updateDetails": [
+      {
+        "date": "2025-11-05",
+        "updatedBy": "Hasan Mahmud",
+        "message": "Added job listing features"
+      },
+      {
+        "date": "2025-11-15",
+        "updatedBy": "Siam Hossen",
+        "message": "Integrated resume management tools"
+      }
+    ],
+    "isPaid": true
+  },
+  {
+    "projectId": "PJT-0184",
+    "projectName": "Real Estate Listing App",
+    "ProjectLink": "github.com/real-estate-app",
+    "clientName": "Siam Hossen",
+    "price": 2400,
+    "deadline": "2025-12-20",
+    "category": "Mobile Development",
+    "status": "Review",
+    "isDelivery": false,
+    "logo": "https://example.com/logos/real-estate.png",
+    "projectReceiveDate": "2025-11-10",
+    "projectDeliveryTime": "15 days",
+    "projectLocation": "Chittagong, Bangladesh",
+    "referenceLink": "https://reference.com/real-estate-app",
+    "keyFeatures": [
+      "Property listings and management",
+      "User profiles and favorites",
+      "Map integration"
+    ],
+    "importantMessages": [
+      "Focus on user experience and performance",
+      "Include advanced search and filter options"
+    ],
+    "shortText": "A mobile app for browsing and managing real estate listings",
+    "description": "A feature-rich real estate application that allows users to browse properties, manage their favorites, and access detailed information. Designed for both iOS and Android platforms.",
+    "contributeTeam": "RealEstateCoders",
+    "contributeEmployeeIds": ["EMP-114", "EMP-117", "EMP-123"],
+    "revisions": 1,
+    "updateDetails": [
+      {
+        "date": "2025-11-15",
+        "updatedBy": "Rofiqul Islam",
+        "message": "Initial design and feature set defined"
+      }
+    ],
+    "isPaid": false
+  }
+]
