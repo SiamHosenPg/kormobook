@@ -1,10 +1,12 @@
 import React from "react";
 import Statusbox from "../Statusbox";
 import Badge from "../badge/Badge";
+import { NavLink } from "react-router-dom";
 
 const Profilecard = ({ employee }) => {
   return (
-    <div
+    <NavLink
+      to={`/profile/${employee.emp_id}`}
       key={employee.emp_id}
       className="member-card bg-background px-8 py-5 pb-6"
     >
@@ -32,7 +34,7 @@ const Profilecard = ({ employee }) => {
         <p className="text-sm  text-text-secondary">{employee.position}</p>
         <p className="mt-2 text-sm line-clamp-2">{employee.about}</p>
       </div>
-    </div>
+    </NavLink>
   );
 };
 

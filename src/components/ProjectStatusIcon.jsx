@@ -8,7 +8,7 @@ import { IoIosCheckmarkCircle } from "react-icons/io";
 
 const ProjectStatusIcon = ({ text }) => {
   return (
-    <div className="relative ">
+    <div className=" ">
       {text === "Completed" && (
         <IoIosCheckmarkCircle className="text-green-500 text-xl" />
       )}
@@ -17,7 +17,7 @@ const ProjectStatusIcon = ({ text }) => {
         <MdOutlineAccessTime className="text-yellow-500 text-xl" />
       )}
       {text === "Progress" && (
-        <BiLoaderCircle className="text-blue-500 text-xl " />
+        <BiLoaderCircle className="text-blue-500 text-xl" />
       )}
     </div>
   );

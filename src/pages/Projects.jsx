@@ -5,8 +5,8 @@ import { useProject } from "../context/ProjectContext";
 const Projects = () => {
   const { Project } = useProject();
   return (
-    <div className="Pagearea Toparea ">
-      <ul className="bg-background flex items-center justify-between px-8 py-4 border-b border-border-secondary ">
+    <div className="Pagearea Toparea  z-0">
+      <ul className="    w-[100%] bg-background flex items-center justify-between px-8 py-4 border-b border-border-secondary ">
         <li className="Bold w-2/12 ">Project ID</li>
         <li className="Bold w-3/12 ">Project Name</li>
         <li className="Bold w-2/12 ">Status</li>

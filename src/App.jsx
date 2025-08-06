@@ -8,6 +8,7 @@ import Teams from "./pages/Teams";
 import { TeamProvider } from "./context/TeamsContext";
 import Projects from "./pages/Projects";
 import { ProjectProvider } from "./context/ProjectContext";
+import Profie from "./pages/extrapage/Profie";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
                       <Route path="/employees" element={<Members />} />
                       <Route path="/teams" element={<Teams />} />
                       <Route path="/projects" element={<Projects />} />
+                      <Route path="/profile/:emp_id" element={<Profie />} />
                     </Routes>
                   </div>
                 </div>
