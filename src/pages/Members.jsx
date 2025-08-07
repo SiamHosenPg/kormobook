@@ -8,7 +8,7 @@ const Members = () => {
     <div className="Pagearea Toparea">
       <div className="memberbox grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {employees.map((employee) => (
-          <Profilecard employee={employee} />
+          <Profilecard employee={employee} key={employee.emp_id} />
         ))}
       </div>
     </div>

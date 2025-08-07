@@ -2,13 +2,17 @@
   {
     "emp_id": 45246335,
     "name": "Shahriar Ahmed",
+    "email": "shahria@gmail.com",
+    "phone": "+8801234567890",
+    "location": "Dhaka, Bangladesh",
+    "teamid": 3565464365,
     "position": "Frontend Developer",
     "image": "/images/extra/profile/2.jpg",
     "skills": ["HTML", "CSS", "JavaScript", "React"],
     "contributing": [9845984, 9576],
     "projects_count": 5,
     "date_of_birth": "1999-04-12",
-    "about": "A passionate frontend developer who loves crafting clean and modern UI.",
+    "about": "I’m a passionate and results-driven Web Developer with a strong focus on building clean, responsive, and user-friendly websites and web applications. With hands-on experience in modern technologies like React, Next.js, JavaScript, and Tailwind CSS, I specialize in creating seamless user experiences and scalable front-end solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Whether working solo or in a team, I strive to write code that is efficient, maintainable, and performance-optimized.",
     "join_date": "2023-06-01",
     "level": "Mentor",
     "rank": 3,
@@ -16,8 +20,26 @@
     "rating": 4.6,
     "cv": "https://example.com/cv/shahriar.pdf",
     "achievement": [
-      "Employee of the Month - July 2024",
-      "Completed 10+ Projects with 5-star rating"
+      {
+        "title": "Optimized Core Web Vitals for Peak Performance",
+        "text": "Revamped the front-end architecture of a high-traffic e-commerce platform, focusing on performance optimization. Successfully improved Largest Contentful Paint (LCP) by 40% and reduced Cumulative Layout Shift (CLS) to nearly zero, resulting in a 15% increase in user engagement and a 10% boost in conversion rates.",
+        "date": "4 July 2024"
+      },
+      {
+        "title": "Architected a Scalable Design System",
+        "text": "Led the development and implementation of a company-wide design system, establishing a single source of truth for UI components. This initiative reduced development time by 30% and ensured brand consistency across multiple applications, improving collaboration between design and engineering teams.",
+        "date": "4 July 2024"
+      },
+      {
+        "title": "UI/UX Excellence",
+        "text": "Created clean, responsive, and accessible UI designs with a focus on user experience, leading to a 40% increase in user engagement.",
+        "date": "4 July 2024"
+      },
+      {
+        "title": "Automated Front-End Testing and Deployment",
+        "text": "Established a robust CI/CD pipeline for front-end applications, integrating automated testing with Jest and Cypress. This initiative reduced manual testing efforts by 50%, increased deployment frequency by 2x, and significantly minimized bugs in production, leading to a more reliable and stable user experience.",
+        "date": "4 July 2024"
+      }
     ],
     "goal": "Become a full-stack developer within 1 year.",
     "status": "Active"
@@ -25,6 +47,10 @@
   {
     "emp_id": 12467653,
     "name": "Farzana Khatun",
+    "email": " farzan@gmail.com",
+    "phone": "+8809876543210",
+    "location": "Chittagong, Bangladesh",
+    "teamid": 903756957,
     "position": "UI/UX Designer",
     "image": "/images/extra/profile/3.jpg",
     "skills": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
@@ -38,13 +64,37 @@
     "salary": 800,
     "rating": 4.2,
     "cv": "https://example.com/cv/farzana.pdf",
-    "achievement": ["Designed 5+ brand kits", "Led UI for eCommerce projects"],
+    "achievement": [
+      {
+        "title": "Built Interactive Data Visualization Tools",
+        "text": "Developed custom, interactive data visualization dashboards using D3.js and Vue.js. These tools enabled clients to better understand complex datasets, providing actionable insights that were previously unavailable. The project resulted in a significant increase in client retention and product stickiness.",
+        "date": "2024-06-10"
+      },
+      {
+        "title": "Led a Major UI/UX Redesign",
+        "text": "Spearheaded the complete redesign of a flagship product's user interface, collaborating closely with product managers and designers. Implemented a modern, responsive design using Vue.js and Tailwind CSS, which led to a 25% increase in user satisfaction scores and a more intuitive user experience.",
+        "date": "2023-12-05"
+      },
+      {
+        "title": "Enhanced Cross-Browser Compatibility",
+        "text": "Resolved over 50 cross-browser compatibility issues, ensuring a consistent user experience for all major browsers. This effort reduced reported bugs by 35% and improved overall application stability.",
+        "date": "2023-08-20"
+      },
+      {
+        "title": "Mentored Junior Developers",
+        "text": "Provided guidance and code review for a team of three junior developers, helping them improve their skills in Vue.js and best practices. This mentorship led to a 20% increase in team productivity and code quality.",
+        "date": "2024-01-30"
+      }
+    ],
     "goal": "Become a Mastermind designer and mentor Sprouts.",
     "status": "Active"
   },
   {
     "emp_id": 76456765,
     "name": "Rakib Hasan",
+    "email": "rakibsl@gmail.com",
+    "phone": "+8801234567891",
+    "location": "Sylhet, Bangladesh",
     "position": "Backend Developer",
     "image": "/images/extra/profile/4.jpg",
     "skills": ["Node.js", "Express", "MongoDB", "JWT"],
@@ -68,6 +118,9 @@
   {
     "emp_id": 98765432,
     "name": "Sadia Rahman",
+    "email": "sadiaramhna1@mgail.com",
+    "phone": "+8801234567892",
+    "location": "Rajshahi, Bangladesh",
     "position": "Project Manager",
     "image": "/images/extra/profile/5.jpg",
     "skills": ["Agile", "Scrum", "Team Management", "Risk Management"],
@@ -91,6 +144,9 @@
   {
     "emp_id": 12345678,
     "name": "Anik Sarker",
+    "email": "aniksarkar@gmail.com",
+    "phone": "+8801234567893",
+    "location": "Khulna, Bangladesh",
     "position": "Data Analyst",
     "image": "/images/extra/profile/6.jpg",
     "skills": ["Python", "SQL", "Data Visualization", "Machine Learning"],
@@ -114,6 +170,9 @@
   {
     "emp_id": 456335,
     "name": "Mariam Akter",
+    "email": "mariamakt@gmail.com",
+    "phone": "+8801234567894",
+    "location": "Barisal, Bangladesh",
     "position": "Quality Assurance Engineer",
     "image": "/images/extra/profile/7.jpg",
     "skills": ["Manual Testing", "Automation Testing", "Selenium", "Jira"],
@@ -137,6 +196,9 @@
   {
     "emp_id": 78901234,
     "name": "Tania Islam",
+    "email": "taniaislam23@gmail.com",
+    "phone": "+8801234567895",
+    "location": "Comilla, Bangladesh",
     "position": "DevOps Engineer",
     "image": "/images/extra/profile/8.jpg",
     "skills": ["Docker", "Kubernetes", "CI/CD", "AWS"],
@@ -160,6 +222,9 @@
   {
     "emp_id": 11223344,
     "name": "Rafiq Ahmed",
+    "email": "rofiqahmed@gmail.com",
+    "phone": "+8801234567896",
+    "location": "Narayanganj, Bangladesh",
     "position": "System Administrator",
     "image": "/images/extra/profile/9.jpg",
     "skills": ["Linux", "Networking", "Virtualization", "Security"],
@@ -183,6 +248,9 @@
   {
     "emp_id": 22334455,
     "name": "Nabila Sultana",
+    "email": "nabilasultan@gmail.com",
+    "phone": "+8801234567897",
+    "location": "Dhaka, Bangladesh",
     "position": "Content Writer",
     "image": "/images/extra/profile/10.jpg",
     "skills": ["SEO", "Copywriting", "Blogging", "Content Strategy"],
@@ -206,6 +274,9 @@
   {
     "emp_id": 33445566,
     "name": "Imran Hossain",
+    "email": "imranhosen@gmail.com",
+    "phone": "+8801234567898",
+    "location": "Mymensingh, Bangladesh",
     "position": "Graphic Designer",
     "image": "/images/extra/profile/11.jpg",
     "skills": ["Photoshop", "Illustrator", "Branding", "Visual Design"],
@@ -229,6 +300,9 @@
   {
     "emp_id": 44556677,
     "name": "Sakib Al Hasan",
+    "email": "sakibhosen@gmail.com",
+    "phone": "+8801234567899",
+    "location": "Dhaka, Bangladesh",
     "position": "Mobile App Developer",
     "image": "/images/extra/profile/12.jpg",
     "skills": ["Flutter", "React Native", "iOS", "Android"],
@@ -252,6 +326,9 @@
   {
     "emp_id": 55667788,
     "name": "Rina Begum",
+    "email": "rina@gmail.com",
+    "phone": "+8801234567800",
+    "location": "Jessore, Bangladesh",
     "position": "HR Specialist",
     "image": "/images/extra/profile/13.jpg",
     "skills": [
@@ -280,6 +357,9 @@
   {
     "emp_id": 66778899,
     "name": "Jamal Uddin",
+    "email": "jamaluddin@gmail.com",
+    "phone": "+8801234567801",
+    "location": "Barisal, Bangladesh",
     "position": "Network Engineer",
     "image": "/images/extra/profile/14.jpg",
     "skills": ["Cisco", "Network Security", "Troubleshooting", "VPN"],
@@ -303,6 +383,9 @@
   {
     "emp_id": 77889900,
     "name": "Lina Chowdhury",
+    "email": "linachowdhory@gmail.com",
+    "phone": "+8801234567802",
+    "location": "Sylhet, Bangladesh",
     "position": "Sales Executive",
     "image": "/images/extra/profile/15.jpg",
     "skills": [

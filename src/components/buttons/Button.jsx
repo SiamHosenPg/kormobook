@@ -1,7 +1,11 @@
 import React from "react";
 
-const Button = () => {
-  return <div></div>;
+const Button = ({ text }) => {
+  return (
+    <button className=" font-semibold bg-background-secondary text-text-secondary px-4 py-2 rounded transition duration-300">
+      {text}
+    </button>
+  );
 };
 
 export default Button;

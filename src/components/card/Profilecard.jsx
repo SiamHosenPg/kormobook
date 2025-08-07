@@ -7,7 +7,6 @@ const Profilecard = ({ employee }) => {
   return (
     <NavLink
       to={`/profile/${employee.emp_id}`}
-      key={employee.emp_id}
       className="member-card bg-background px-8 py-5 pb-6"
     >
       <div className="flex items-center justify-between ">
