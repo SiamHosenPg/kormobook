@@ -1,28 +1,30 @@
 import React from "react";
 import Button from "../../components/buttons/Button";
+import { SlBadge } from "react-icons/sl";
 
 const ProfileSamary = ({ user }) => {
   return (
-    <div className="mt-8  flex justify-between">
+    <div className="  flex justify-between">
       <div className=" ">
-        <div className="mt-4">
-          <h5> </h5>
-          <div className=" flex gap-2 flex-col">
+        <div className="pb-12">
+          <h5 className="">Achievement</h5>
+          <ul className=" mt-4 flex gap-3 font-medium flex-col">
             {user.achievement &&
               user.achievement.map((data, index) => (
-                <div key={index}>
-                  <h5>{data.title}</h5>
-                  <p>{data.text}</p>
-                </div>
+                <li key={index} className="flex items-center gap-2">
+                  <SlBadge className="text-lg " />
+                  <span>{data.title}</span>
+                </li>
               ))}
-          </div>
+          </ul>
         </div>
-        <div className="flex items-center gap-2 font-medium mt-4 ">
+        <h5 className="">Skills</h5>
+        <div className=" pb-12 flex items-center gap-2 font-medium mt-4 ">
           {user.skills.map((data, index) => {
             return (
               <div
                 key={index}
-                className=" bg-background-secondary px-4 py-1 rounded-full "
+                className=" bg-background-tertiary px-4 py-1 rounded "
               >
                 {data}
               </div>

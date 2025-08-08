@@ -15,29 +15,25 @@
     "about": "I’m a passionate and results-driven Web Developer with a strong focus on building clean, responsive, and user-friendly websites and web applications. With hands-on experience in modern technologies like React, Next.js, JavaScript, and Tailwind CSS, I specialize in creating seamless user experiences and scalable front-end solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Whether working solo or in a team, I strive to write code that is efficient, maintainable, and performance-optimized.",
     "join_date": "2023-06-01",
     "level": "Mentor",
-    "rank": 3,
+    "rank": 345245,
     "salary": 1200,
     "rating": 4.6,
     "cv": "https://example.com/cv/shahriar.pdf",
     "achievement": [
       {
         "title": "Optimized Core Web Vitals for Peak Performance",
-        "text": "Revamped the front-end architecture of a high-traffic e-commerce platform, focusing on performance optimization. Successfully improved Largest Contentful Paint (LCP) by 40% and reduced Cumulative Layout Shift (CLS) to nearly zero, resulting in a 15% increase in user engagement and a 10% boost in conversion rates.",
         "date": "4 July 2024"
       },
       {
         "title": "Architected a Scalable Design System",
-        "text": "Led the development and implementation of a company-wide design system, establishing a single source of truth for UI components. This initiative reduced development time by 30% and ensured brand consistency across multiple applications, improving collaboration between design and engineering teams.",
         "date": "4 July 2024"
       },
       {
         "title": "UI/UX Excellence",
-        "text": "Created clean, responsive, and accessible UI designs with a focus on user experience, leading to a 40% increase in user engagement.",
         "date": "4 July 2024"
       },
       {
         "title": "Automated Front-End Testing and Deployment",
-        "text": "Established a robust CI/CD pipeline for front-end applications, integrating automated testing with Jest and Cypress. This initiative reduced manual testing efforts by 50%, increased deployment frequency by 2x, and significantly minimized bugs in production, leading to a more reliable and stable user experience.",
         "date": "4 July 2024"
       }
     ],
@@ -67,22 +63,18 @@
     "achievement": [
       {
         "title": "Built Interactive Data Visualization Tools",
-        "text": "Developed custom, interactive data visualization dashboards using D3.js and Vue.js. These tools enabled clients to better understand complex datasets, providing actionable insights that were previously unavailable. The project resulted in a significant increase in client retention and product stickiness.",
         "date": "2024-06-10"
       },
       {
         "title": "Led a Major UI/UX Redesign",
-        "text": "Spearheaded the complete redesign of a flagship product's user interface, collaborating closely with product managers and designers. Implemented a modern, responsive design using Vue.js and Tailwind CSS, which led to a 25% increase in user satisfaction scores and a more intuitive user experience.",
         "date": "2023-12-05"
       },
       {
         "title": "Enhanced Cross-Browser Compatibility",
-        "text": "Resolved over 50 cross-browser compatibility issues, ensuring a consistent user experience for all major browsers. This effort reduced reported bugs by 35% and improved overall application stability.",
         "date": "2023-08-20"
       },
       {
         "title": "Mentored Junior Developers",
-        "text": "Provided guidance and code review for a team of three junior developers, helping them improve their skills in Vue.js and best practices. This mentorship led to a 20% increase in team productivity and code quality.",
         "date": "2024-01-30"
       }
     ],
@@ -130,7 +122,7 @@
     "about": "Experienced project manager with a track record of delivering projects on time and within budget.",
     "join_date": "2021-05-20",
     "level": "Lead",
-    "rank": 1,
+    "rank": 156356,
     "salary": 2500,
     "rating": 4.8,
     "cv": "https://example.com/cv/sadia.pdf",

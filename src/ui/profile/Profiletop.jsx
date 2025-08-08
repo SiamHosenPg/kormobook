@@ -30,7 +30,7 @@ const Profiletop = ({ user }) => {
         <div>
           <div className=" flex flex-col gap-2">
             <div className="flex items-center justify-end gap-2">
-              <button className="p-2 rounded bg-background-secondary  transition duration-300">
+              <button className="p-2 rounded bg-background-tertiary  transition duration-300">
                 <LiaUserEditSolid className="text-text-secondary text-xl " />
               </button>
               <Button text="Download CV" />
